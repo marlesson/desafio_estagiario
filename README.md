@@ -31,7 +31,7 @@ O Kaggle disponibiliza uma base de dados que pode ser utilizada na solução do 
 
 Sim. Desde que seja web pode usar qualquer linguagem/framework para realizar o desafio. 
 
-### Posso utilizar um template pronto e adaptar para a solução?
+#### Posso utilizar um template pronto e adaptar para a solução?
 
 Sim.
 
